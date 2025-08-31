@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5100&pause=1000&color=009F04&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ramon+Vitor+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%98%95" alt="Meu nome" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=2000&color=00A920&center=true&vCenter=true&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Ramon+Vitor+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%98%95" alt="Apresentação" /></a>
 </div>
  
  ---
